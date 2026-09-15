@@ -1,2 +1,5 @@
-# ssb-bridge
-Public bridge for Digistore Self-Sufficient Backyard affiliate disclosure page
+# SSB Bridge
+
+Public disclosure bridge for Digistore offer 379127 (The Self-Sufficient Backyard).
+
+Affiliate ID: 613934
